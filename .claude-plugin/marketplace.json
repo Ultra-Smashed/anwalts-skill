@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "vertrag",
+  "description": "Kleingedrucktes in Klartext, bevor du unterschreibst.",
+  "owner": {
+    "name": "Christopher Thanisch",
+    "url": "https://thanisch.co"
+  },
+  "plugins": [
+    {
+      "name": "vertrag",
+      "description": "Lesehilfe für Verträge, keine Rechtsberatung: Vertrag in Klartext, Website-Check, Absprachen festhalten, Fristen-Liste, Anwalts-Briefing.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

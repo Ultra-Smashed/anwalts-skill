@@ -1,0 +1,23 @@
+{
+  "name": "vertrag",
+  "description": "Lesehilfe für Verträge, keine Rechtsberatung: Vertrag in Klartext, Website-Check, Absprachen festhalten, Fristen-Liste, Anwalts-Briefing.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Christopher Thanisch",
+    "url": "https://thanisch.co"
+  },
+  "homepage": "https://thanisch.co/wissen/guides/vertrags-skill-claude",
+  "repository": "https://github.com/Ultra-Smashed/vertrags-skill",
+  "license": "MIT",
+  "keywords": [
+    "vertrag",
+    "agb",
+    "impressum",
+    "datenschutz",
+    "kuendigungsfrist",
+    "anwalt",
+    "selbststaendig",
+    "deutsch",
+    "claude-skills"
+  ]
+}
