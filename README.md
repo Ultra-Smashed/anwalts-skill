@@ -1,6 +1,6 @@
-# Vertrags-Skill
+# Anwalts-Skill
 
-Ein Skill für Claude. Der Vertrags-Skill übersetzt Verträge in normales Deutsch und markiert kritische Stellen, prüft Impressum und Datenschutzerklärung auf typische Lücken, hält mündliche Absprachen schriftlich fest und sammelt alle Kündigungsfristen in einer Liste. Das Anwalts-Briefing fasst deinen Fall zusammen, damit du deinen Anwalt fürs Beraten bezahlst und nicht fürs Einlesen. Kostenlos, MIT-Lizenz.
+Ein Skill für Claude. Der Anwalts-Skill übersetzt Verträge in normales Deutsch und markiert kritische Stellen, prüft Impressum und Datenschutzerklärung auf typische Lücken, hält mündliche Absprachen schriftlich fest und sammelt alle Kündigungsfristen in einer Liste. Das Anwalts-Briefing fasst deinen Fall zusammen, damit du deinen Anwalt fürs Beraten bezahlst und nicht fürs Einlesen. Kostenlos, MIT-Lizenz.
 
 | Modul | Was es macht |
 | --- | --- |
@@ -17,18 +17,18 @@ Ein Skill für Claude. Der Vertrags-Skill übersetzt Verträge in normales Deuts
 Am schnellsten: den Link in einen neuen Chat einfügen und Claude bitten, den Skill zu installieren:
 
 ```
-https://github.com/Ultra-Smashed/vertrags-skill
+https://github.com/Ultra-Smashed/anwalts-skill
 
 Installier diesen Skill für mich.
 ```
 
 Oder von Hand:
 
-1. [`vertrag.zip`](https://github.com/Ultra-Smashed/vertrags-skill/raw/main/vertrag.zip) herunterladen (nicht entpacken).
+1. [`anwalt.zip`](https://github.com/Ultra-Smashed/anwalts-skill/raw/main/anwalt.zip) herunterladen (nicht entpacken).
 2. In Claude unter **Settings → Capabilities** den Schalter **Code execution and file creation** einschalten. In der neueren Ansicht heißt er **Create and edit files**.
 3. **Customize → Skills** öffnen, auf **+** klicken, dann **Create skill → Upload a skill** und die ZIP-Datei wählen.
 
-Als Plugin: **Customize → Plugins**, bei den persönlichen Plugins auf **+**, dann **Add from a repository** und `Ultra-Smashed/vertrags-skill` eintragen.
+Als Plugin: **Customize → Plugins**, bei den persönlichen Plugins auf **+**, dann **Add from a repository** und `Ultra-Smashed/anwalts-skill` eintragen.
 
 Die Menünamen stehen hier so, wie Anthropic sie in der Hilfe nennt. In der deutschen Oberfläche können sie übersetzt sein.
 
@@ -37,15 +37,15 @@ Die Menünamen stehen hier so, wie Anthropic sie in der Hilfe nennt. In der deut
 Als Plugin:
 
 ```
-/plugin marketplace add Ultra-Smashed/vertrags-skill
-/plugin install vertrag@vertrag
+/plugin marketplace add Ultra-Smashed/anwalts-skill
+/plugin install anwalt@anwalt
 ```
 
 Oder den Ordner kopieren:
 
 ```bash
-git clone https://github.com/Ultra-Smashed/vertrags-skill.git
-cp -r vertrags-skill/skills/vertrag ~/.claude/skills/
+git clone https://github.com/Ultra-Smashed/anwalts-skill.git
+cp -r anwalts-skill/skills/anwalt ~/.claude/skills/
 ```
 
 ## Benutzen
@@ -63,16 +63,16 @@ Bei Abmahnung, Klage, Gerichts- oder Behördenfristen gibt der Skill keine Einsc
 ## Dateien
 
 ```
-skills/vertrag/SKILL.md            Ablauf, Module, Regeln
-skills/vertrag/modes/               eine Anleitung pro Modul
-vertrag.zip                       derselbe Skill-Ordner als ZIP für die Claude-App
+skills/anwalt/SKILL.md            Ablauf, Module, Regeln
+skills/anwalt/modes/               eine Anleitung pro Modul
+anwalt.zip                       derselbe Skill-Ordner als ZIP für die Claude-App
 .claude-plugin/                     plugin.json, marketplace.json
 ```
 
-Nach einer Änderung im Skill-Ordner die ZIP neu bauen: `cd skills && zip -r ../vertrag.zip vertrag`.
+Nach einer Änderung im Skill-Ordner die ZIP neu bauen: `cd skills && zip -r ../anwalt.zip anwalt`.
 
 **Keine Rechtsberatung.** Der Skill ist eine Lesehilfe und bereitet Gespräche mit Anwälten vor.
 
-Anleitung: [thanisch.co/wissen/guides/vertrags-skill-claude](https://thanisch.co/wissen/guides/vertrags-skill-claude)
+Anleitung: [thanisch.co/wissen/guides/anwalts-skill-claude](https://thanisch.co/wissen/guides/anwalts-skill-claude)
 
 MIT-Lizenz, siehe [LICENSE](LICENSE). Von [Christopher Thanisch](https://thanisch.co).

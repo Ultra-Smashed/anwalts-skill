@@ -1,9 +1,9 @@
 ---
-name: vertrag
-description: "Lesehilfe für Verträge und Rechtliches im Alltag von Selbstständigen und kleinen Unternehmen, ersetzt keinen Anwalt. Fünf Module. Vertrag lesen (Klartext-Zusammenfassung, kritische Klauseln markiert, Fragen zum Nachverhandeln), Website-Check (Impressum, Datenschutzerklärung, Cookie-Banner auf typische Lücken), Absprachen festhalten (mündliche Vereinbarungen als Auftragsbestätigung), Fristen-Liste (Kündigungsfristen und Verlängerungen aus allen Verträgen) und Anwalts-Briefing (Fall zusammenfassen, Unterlagen sortieren, Fragen für den Anwalt). Benutze diesen Skill immer, wenn jemand einen Vertrag, AGB, Kleingedrucktes, Rahmenvertrag, NDA, Mietvertrag, Kündigungsfrist, Impressum, Datenschutzerklärung, Cookie-Banner, Auftragsbestätigung, mündliche Absprache, Streit mit Kunde oder einen Anwaltstermin erwähnt, auch bei „review this contract“."
+name: anwalt
+description: "Der Anwalts-Skill: Lesehilfe für Verträge und Rechtliches im Alltag von Selbstständigen und kleinen Unternehmen, ersetzt keinen Anwalt. Fünf Module. Vertrag lesen (Klartext-Zusammenfassung, kritische Klauseln markiert, Fragen zum Nachverhandeln), Website-Check (Impressum, Datenschutzerklärung, Cookie-Banner auf typische Lücken), Absprachen festhalten (mündliche Vereinbarungen als Auftragsbestätigung), Fristen-Liste (Kündigungsfristen und Verlängerungen aus allen Verträgen) und Anwalts-Briefing (Fall zusammenfassen, Unterlagen sortieren, Fragen für den Anwalt). Benutze diesen Skill immer, wenn jemand einen Vertrag, AGB, Kleingedrucktes, Rahmenvertrag, NDA, Mietvertrag, Kündigungsfrist, Impressum, Datenschutzerklärung, Cookie-Banner, Auftragsbestätigung, mündliche Absprache, Streit mit Kunde, Anwalts-Skill oder einen Anwaltstermin erwähnt, auch bei „review this contract“."
 ---
 
-# Vertrags-Skill
+# Anwalts-Skill
 
 Lesehilfe und Vorbereitung. **Keine Rechtsberatung.** Der Skill erklärt, markiert und bereitet vor. Ob etwas wirksam, riskant oder zu unterschreiben ist, entscheidet am Ende der Mensch, im Zweifel mit Anwalt.
 
