@@ -1,6 +1,8 @@
 # Anwalts-Skill
 
 Ein Skill für Claude. Der Anwalts-Skill übersetzt Verträge in normales Deutsch und markiert kritische Stellen, prüft Impressum und Datenschutzerklärung auf typische Lücken, hält mündliche Absprachen schriftlich fest und sammelt alle Kündigungsfristen in einer Liste. Das Anwalts-Briefing fasst deinen Fall zusammen, damit du deinen Anwalt fürs Beraten bezahlst und nicht fürs Einlesen. Kostenlos, MIT-Lizenz.
+> **Keine Rechtsberatung.** Der Skill ist eine Lesehilfe und ersetzt keinen Anwalt. Bitte lies die [rechtlichen Hinweise](#rechtliche-hinweise), bevor du ihn nutzt.
+
 
 | Modul | Was es macht |
 | --- | --- |
@@ -71,7 +73,21 @@ anwalt.zip                       derselbe Skill-Ordner als ZIP für die Claude-A
 
 Nach einer Änderung im Skill-Ordner die ZIP neu bauen: `cd skills && zip -r ../anwalt.zip anwalt`.
 
-**Keine Rechtsberatung.** Der Skill ist eine Lesehilfe und bereitet Gespräche mit Anwälten vor.
+## Rechtliche Hinweise
+
+**Keine Rechtsberatung.** Der Skill ist ein Werkzeug zur Information und Vorbereitung. Er erbringt keine Rechtsdienstleistung im Sinne des Rechtsdienstleistungsgesetzes (RDG) und ersetzt keine Beratung durch eine Anwältin oder einen Anwalt. Der Name „Anwalts-Skill“ beschreibt das Thema, nicht eine anwaltliche Leistung.
+
+**Keine Gewähr.** KI kann Fehler machen, Klauseln falsch einordnen oder neue Gesetze und Urteile nicht kennen. Die Anleitungen im Skill haben den Rechtsstand Deutschland, November 2026. Prüf jedes Ergebnis, bevor du darauf eine Entscheidung stützt, und hol im Zweifel anwaltlichen Rat.
+
+**Fristen.** Bei Abmahnung, Klage, Mahnbescheid, Kündigung oder Behördenschreiben laufen oft kurze Fristen. Warte nicht auf eine Auswertung, sondern hol sofort anwaltliche Hilfe.
+
+**Vertraulichkeit und Datenschutz.** Was du hochlädst, wird von Claude (Anthropic) verarbeitet. Verträge enthalten oft personenbezogene Daten und Geschäftsgeheimnisse, und viele Verträge, etwa Geheimhaltungsvereinbarungen, verbieten die Weitergabe an Dritte. Prüf vorher, ob du die Unterlagen weitergeben darfst, und schwärze Namen, Adressen und Kontodaten, wenn sie für deine Frage nicht nötig sind. Sieh in den Einstellungen deines Claude-Kontos nach, ob deine Chats zur Verbesserung der Modelle genutzt werden dürfen.
+
+**Berufsgeheimnisträger.** Wer selbst einer Schweigepflicht unterliegt, etwa Ärztinnen, Steuerberater oder Anwälte, darf Mandanten- oder Patientendaten nur unter den Voraussetzungen von § 203 StGB und der DSGVO an Dienstleister geben. Ohne geklärte Grundlage nur anonymisierte Unterlagen verwenden.
+
+**Website-Check.** Die Checkliste deckt typische Lücken ab, aber nicht alle Pflichten jeder Branche. Sie schützt nicht sicher vor Abmahnungen. Rechtstexte wie Impressum, Datenschutzerklärung oder AGB lässt du am besten von einer Anwältin oder einem spezialisierten Anbieter erstellen.
+
+**Haftung.** Der Skill wird kostenlos und ohne Gewähr bereitgestellt (MIT-Lizenz). Eine Haftung für Schäden aus seiner Nutzung ist ausgeschlossen, soweit das gesetzlich zulässig ist.
 
 Anleitung: [thanisch.co/wissen/guides/anwalts-skill-claude](https://thanisch.co/wissen/guides/anwalts-skill-claude)
 

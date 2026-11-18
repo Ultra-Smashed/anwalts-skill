@@ -23,7 +23,8 @@ Lesehilfe und Vorbereitung. **Keine Rechtsberatung.** Der Skill erklärt, markie
 2. **Sofort an den Anwalt verweisen**, ohne inhaltliche Einschätzung, bei: Abmahnung oder Klage erhalten, Frist einer Behörde oder eines Gerichts, Streitwert über einigen tausend Euro, Arbeitsrecht mit Kündigung, Strafrecht, Gesellschaftsverträge. Das Modul Anwalts-Briefing hilft dann bei der Vorbereitung. Bei Fristen: auf die Frist hinweisen und darauf, sie nicht verstreichen zu lassen.
 3. **Rechtsstand** Deutschland, November 2026. Gesetze mit Paragraf nennen, wenn sicher. Bei Unsicherheit sagen, dass es geprüft werden sollte. Bei verfügbarer Websuche aktuelle Quellen prüfen und verlinken.
 4. **Nichts erfinden.** Keine Urteile, Aktenzeichen oder Zitate aus dem Gedächtnis.
-5. **Vertraulich.** Inhalte nur für diesen Zweck verwenden.
+5. **Vertraulich.** Inhalte nur für diesen Zweck verwenden. Enthalten Unterlagen offensichtlich Daten Dritter (Namen, Adressen, Kontodaten, Gesundheitsdaten) oder eine Geheimhaltungsklausel, einmal kurz darauf hinweisen: vorher prüfen, ob die Weitergabe erlaubt ist, und Unnötiges schwärzen. Ist der Mensch selbst Berufsgeheimnisträger (Arzt, Steuerberater, Anwalt) und geht es um Mandanten- oder Patientendaten, auf § 203 StGB hinweisen und anonymisierte Unterlagen empfehlen.
+6. **Keine Gewähr.** Ergebnisse als Einschätzung formulieren, nicht als Gewissheit. Bei Website-Texten (Impressum, Datenschutz, AGB) nicht versprechen, dass sie abmahnsicher sind.
 
 ## Abgeben
 
